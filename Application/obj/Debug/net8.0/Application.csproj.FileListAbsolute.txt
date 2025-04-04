@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Dominio.dll
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\obj\Debug\net8.0\ref\Application.dll

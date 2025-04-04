@@ -1,0 +1,40 @@
+﻿@model IEnumerable<GestorPacientes.Models.CitaViewModel>
+
+@{
+    ViewData["Title"] = "Citas";
+}
+
+<h1>Listado de Citas</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Agregar Nueva Cita</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Hora</th>
+            <th>Paciente</th>
+            <th>Médico</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cita in Model)
+        {
+            <tr>
+                <td>@cita.Birthdate.ToShortDateString()</td>
+                <td>@cita.HoraCita</td>
+                <td>@cita.PacienteId</td>
+                <td>@cita.MedicoId</td>
+                <td>@cita.EstadoCita</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@cita.Id" class="btn btn-warning">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@cita.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

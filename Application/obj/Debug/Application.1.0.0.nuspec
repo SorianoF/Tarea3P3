@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Application</id>
+    <version>1.0.0</version>
+    <authors>Application</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Dominio" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper.Extensions.Microsoft.DependencyInjection" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Application.runtimeconfig.json" target="lib\net8.0\Application.runtimeconfig.json" />
+    <file src="C:\Users\Lenovo\OneDrive\Documentos\Projects\GestorPacientes\Application\bin\Debug\net8.0\Application.dll" target="lib\net8.0\Application.dll" />
+  </files>
+</package>

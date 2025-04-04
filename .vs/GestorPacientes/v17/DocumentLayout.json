@@ -1,0 +1,881 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\repositories\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\helpers\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\helpers\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\migrations\\20241007013111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241007013111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\entities\\consultorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\consultorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\entities\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\interfaces\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\interfaces\\iconsultoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\iconsultoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\interfaces\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\models\\citaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\models\\citaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\models\\medicoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\models\\medicoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\models\\pacienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\models\\pacienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\repositories\\consultoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\consultoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\repositories\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E125B4-8BED-44B7-B974-5095B5449BDD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\paciente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\paciente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\cita\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\cita\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\medico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\medico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\cita\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\cita\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\paciente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\paciente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\medico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\medico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\dtos\\medicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\dtos\\medicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\dominio\\entities\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC96E2CD-5BCB-4515-83FE-171037C56761}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entities\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\services\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\services\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\dtos\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\dtos\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCAE917A-1797-48AE-B407-F1CE61F0BDAB}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|c:\\users\\lenovo\\onedrive\\documentos\\projects\\gestorpacientes\\gestorpacientes\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1027B759-D7CA-4448-961A-A36340348532}|GestorPacientes\\GestorPacientes.csproj|solutionrelative:gestorpacientes\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 190,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 53,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:55:48.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Cita\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Cita\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Cita\\Create.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Cita\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:34:11.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Cita\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Cita\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Cita\\Index.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Cita\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:32:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Paciente\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Paciente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Paciente\\Create.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Paciente\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:30:54.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Paciente\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Paciente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Paciente\\Index.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Paciente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:28:59.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Medico\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Medico\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Medico\\Edit.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Medico\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:25:42.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Medico\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Medico\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Medico\\Create.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Medico\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:23:48.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CitaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\CitaViewModel.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Models\\CitaViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\CitaViewModel.cs",
+              "RelativeToolTip": "GestorPacientes\\Models\\CitaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:10:35.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PacienteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\PacienteViewModel.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Models\\PacienteViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\PacienteViewModel.cs",
+              "RelativeToolTip": "GestorPacientes\\Models\\PacienteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:00:04.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MedicoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\MedicoViewModel.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Models\\MedicoViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\MedicoViewModel.cs",
+              "RelativeToolTip": "GestorPacientes\\Models\\MedicoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:58:56.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Medico\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Medico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Medico\\Index.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Medico\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T04:53:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Controllers\\CitaController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "GestorPacientes\\Controllers\\CitaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:52:47.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "GestorPacientes\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:51:25.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "GestorPacientes\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:48:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CitaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\CitaDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CitaDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\CitaDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\CitaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:18:36.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PacienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\PacienteDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PacienteDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\PacienteDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\PacienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:17:32.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MedicoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\MedicoDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\MedicoDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\MedicoDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\MedicoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:16:31.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CitaService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\CitaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CitaService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\CitaService.cs",
+              "RelativeToolTip": "Application\\Services\\CitaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:15:13.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\PacienteService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\PacienteService.cs",
+              "RelativeToolTip": "Application\\Services\\PacienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:08:21.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\CitaRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CitaRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\CitaRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CitaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:08:05.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\PacienteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PacienteRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:07:00.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MedicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\MedicoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\MedicoRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\MedicoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\MedicoRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:51:42.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\ICitaRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\ICitaRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\ICitaRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\ICitaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:50:16.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IPacienteRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IPacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IPacienteRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IPacienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:49:53.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMedicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IMedicoRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IMedicoRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IMedicoRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IMedicoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:47:19.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MedicoService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\MedicoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\MedicoService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\MedicoService.cs",
+              "RelativeToolTip": "Application\\Services\\MedicoService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABRwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:46:12.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:35:39.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Cita.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\Cita.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Cita.cs",
+              "RelativeToolTip": "Dominio\\Entities\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:59:59.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Paciente.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Paciente.cs",
+              "RelativeToolTip": "Dominio\\Entities\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:55:47.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Medico.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\Medico.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Medico.cs",
+              "RelativeToolTip": "Dominio\\Entities\\Medico.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:50:20.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241007013111_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Migrations\\20241007013111_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241007013111_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Migrations\\20241007013111_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241007013111_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:31:14.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T00:57:12.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:14:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ConsultorioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\ConsultorioRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ConsultorioRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\ConsultorioRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ConsultorioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:11:25.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Helpers\\PasswordEncryption.cs",
+              "RelativeDocumentMoniker": "Application\\Helpers\\PasswordEncryption.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Helpers\\PasswordEncryption.cs",
+              "RelativeToolTip": "Application\\Helpers\\PasswordEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:15:45.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\LoginUserDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:03:38.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:02:19.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:39:21.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "GestorPacientes\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:37:56.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T19:37:46.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GestorPacientes\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:36:32.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T02:46:04.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GestorPacientes\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GestorPacientes\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T02:46:49.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GestorPacientes\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:40:46.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Program.cs",
+              "RelativeDocumentMoniker": "GestorPacientes\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\Program.cs",
+              "RelativeToolTip": "GestorPacientes\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:17:09.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\appsettings.json",
+              "RelativeDocumentMoniker": "GestorPacientes\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\GestorPacientes\\appsettings.json",
+              "RelativeToolTip": "GestorPacientes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T02:15:13.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:58:15.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:37:37.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:24:40.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IConsultorioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IConsultorioRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IConsultorioRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IConsultorioRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IConsultorioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:09:42.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Dominio\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Dominio\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:06:57.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Consultorio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Consultorio.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\Consultorio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\Consultorio.cs",
+              "RelativeToolTip": "Dominio\\Entities\\Consultorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:04:58.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Projects\\GestorPacientes\\Dominio\\Entities\\User.cs",
+              "RelativeToolTip": "Dominio\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:01:51.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
